@@ -39,7 +39,9 @@
 .mt-40{margin-top: 40px}
 .mt-50{margin-top: 50px}
 
-
+.hover-effect:hover{
+    box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.06)!important;
+}
 /*price-list-table*/
 .price-list-table:hover{
     box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.06);

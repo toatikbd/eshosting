@@ -1,0 +1,1072 @@
+/**
+*
+* -----------------------------------------------------------------------------
+*
+* Template : eshosting |  Hosting Domain 
+* Author : eshosting
+* Author URI : http://www.eshosting.com/
+*
+* -----------------------------------------------------------------------------
+*
+**/
+
+@media only screen and (max-width: 1920px){ 
+	.rs-support {
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+}
+@media only screen and (max-width: 1199px){
+	.home4 .rs-hostlab-slider .single-slider .slider-text .sl-title,
+	.home3 .rs-banner .banner-section .slider-text .home3-title,
+	.home2 .rs-banner .slider-text .sl-title,
+	.rs-hostlab-slider .content-inner .slider-text .sl-title{
+		font-size: 50px;
+		line-height: 65px;
+	}
+	.rs-menu ul ul a{
+		width: 240px;
+	}
+	.home4 .full-width-header .rs-header .rs-header-top .header-contact ul li a{
+		margin-right: 0;
+		font-size: 14px;
+	}
+	.nav-menu > li > a i{
+		display: unset;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.nav-menu > li > a{
+		padding: 0 0 0 6px;
+		font-size: 13px;
+	}
+	.rs-hostlab-footer .footer-content .footer-menu form.footer-form input.submit{
+		padding: 0 10px;
+	}
+	.rs-hostlab-domain-search .available-domain input.domain-name{
+		width: 60%;
+	}
+	.rs-hostlab-classification .single-hosting .hostlab-img{
+		padding-right: 10px;
+	}
+	.rs-hostlab-pricing .single-pricing .pricing-top .hostlab-title h3{
+		font-size: 18px;
+	}
+	.rs-client-service .client-service-text {
+	    margin-top: 0;
+	}
+	.inner-page .banner-bottom-list ul::before{
+		left: unset;
+		right: 2%;
+		width: 70%;
+	}
+	.rs-hostlab-footer .footer-content .footer-menu ul li a,
+	.rs-hostlab-footer .footer-content .footer-menu p.some-text,
+	.rs-hostlab-footer .footer-content .footer-menu form.footer-form input.email,
+	.rs-hostlab-footer .footer-content .footer-menu form.footer-form input.submit,
+	.rs-hostlab-footer .copyright .copy-text,
+	.rs-hostlab-footer .copyright .social-links ul li a {
+		font-size: 12px;
+	}
+	.rs-hostlab-footer .copyright .social-links ul li a {
+		padding: 6px;
+	}
+	.home2 .rs-banner .slider-text{
+		top: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.home2 .rs-hostlab-domain-search2 {
+		margin-top: 0;
+	}
+	.home2 .rs-hostlab-domain-search2 .available-domain input.domain-name {
+		width: 330px;
+	}
+	.rs-different-featured .featured-item .title h3 a {
+		font-size: 17px;
+	}
+	.rs-banner .slider-text .sl-title {
+		font-size: 45px;
+	}
+	.rs-support .support-content .support-here ul li h4 {
+		font-size: 17px;
+	}
+	.rs-support .support-content .support-here ul li span {
+		font-size: 11px;
+	}
+	.rs-domain-search .domain-search-form-group ul.domain-info li {
+		margin-right: 30px;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form .select-group {
+		right:0; 
+	}
+	.home2 .rs-hostlab-domain-search {
+		margin-top: -110px;
+	}
+	.home2 .rs-banner .slider-text .sl-subtitle,
+	.home2 .rs-banner .slider-text .sl-title{
+		margin-bottom: 0;
+	}
+}
+
+@media only screen and (max-width: 991px){
+	.home4 .rs-hostlab-slider .single-slider .slider-text .sl-title,
+	.home3 .rs-banner .banner-section .slider-text .home3-title,
+	.home2 .rs-banner .slider-text .sl-title,
+	.rs-hostlab-slider .content-inner .slider-text .sl-title{
+		font-size: 40px;
+		line-height: 55px;
+	}
+	.rs-breadcrumbs .page-title{
+		font-size: 30px;
+	}
+	.hidden-md{
+		display: none;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.nav-menu > li > a{
+		padding-left: 12px;
+	}
+	.inner-page .banner-img .banner-title .banner-bottom-list{
+		padding-top: 10px;
+	}
+	.text-center-md{
+	    text-align: center;
+	}	
+	.home2 .rs-hostlab-domain-search .available-domain{
+		padding: 0;
+	}
+	.home2 .rs-hostlab-domain-search {
+		margin-top: 0;
+	}
+	.mb-md-30{
+		margin-bottom: 30px;
+	}
+	.client-footer .rs-hostlab-footer .footer-content,
+	.pt-100 {
+	    padding-top: 80px !important;
+	}
+	.rs-choose-us,
+	.pb-100 {
+	    padding-bottom: 80px !important;
+	}
+	.single-product-page .our-products-section,
+	.rs-different-featured,
+	.home1 .rs-different-featured{
+		padding-bottom: 50px !important;
+	}
+	.rs-dedicated-server {
+	    padding: 80px 0 10px !important;
+	}
+	.col-md-hidden{
+		display: none;
+	}
+
+	.sec-spacer6{
+	    padding: 70px 0 70px !important;
+	}
+
+	.full-width-header{
+		margin-top: -1px;
+	}
+	.inner-page .rs-menu ul {
+	    margin-right: 0;
+	}
+	.rs-check-out .title-bg{
+		margin-top: 30px;
+	}
+	.full-width-header .toolbar-area{
+		display: none;
+	}
+	.full-width-header .rs-header .sticky{
+		display: none;
+	}
+	.full-width-header .rs-header .logo-area{
+		position: absolute;
+		z-index: 999999;
+		top: 0;
+		left: 16px;
+		transform: unset;
+		height: 50px;
+		line-height: 50px;
+	}
+	.full-width-header .rs-header .menu-area,
+	.home4 .full-width-header .rs-header .menu-area{
+		background-color: #fff;
+		margin-left: -1px;
+	}
+	.full-width-header .rs-header .main-menu{
+		position: unset;
+		left: 0;
+		width: 100%;
+		z-index: 99999;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu-toggle{
+		text-align: right;
+		background-color: #fff !important;
+		color: #2287ff !important;
+		border: none !important;
+		margin-top: -1px;
+	}
+	.rs-host-platform .tab-content .tab-pane .column-space .col-content .col-inner ul li span.from{
+		margin-left: 0;
+	}
+	.home4 .full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li.current-menu-item > a {
+	    padding-left: 20px;
+	}
+	.home2 .rs-header .main-menu .rs-menu ul.nav-menu .current-menu-item a{
+		color: #fff !important;
+	}
+    .home3 .full-width-header .rs-header .main-menu .rs-menu-toggle,
+    .home3 .full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li i{
+        color: #3b982d !important;
+    }
+    .home3 .full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li{
+    	background-color: #3b982d !important;
+    }
+    .home3 .full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li:hover{
+        background-color: #2a6720 !important;
+    }
+    .home3 .full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li a{
+    	border-color: #2a6720 !important;
+    }
+    .home3 .full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li a:hover, 
+    .home3 .full-width-header .rs-header .main-menu .rs-menu ul li.current-menu-item > a{
+    	color: #ddd !important;
+    }
+    .home4 .full-width-header .rs-header .menu-area, .home4 .full-width-header .rs-header .menu-sticky{
+    	top: 0;
+    }
+    .rs-client-service .client-service-text {
+	    padding-bottom: 60px;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.nav-menu{
+		background-color: #2287ff;
+		margin: 0;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li a.active-icon::before{
+		display: none;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li{
+		display: block;
+		margin: 0;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li:hover{
+		background-color: #0575fb;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li a{
+		height: 50px;
+		line-height: 50px;
+		border-color: #0575fb;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.sub-menu li a{
+		line-height: unset;
+	}
+	.nav-menu > .menu-item-has-children > span.rs-menu-parent{
+		height: 50px;
+		background-color: #ddd;
+		border: none;
+	}
+	.nav-menu > .menu-item-has-children > span.rs-menu-parent:hover,
+	.nav-menu > .rs-mega-menu > span.rs-menu-parent:hover{
+		background-color: #fff;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li i{
+		color: #fff !important;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu .nav-menu .sub-menu-close i{
+		color: #2287ff !important;
+		margin-right: 5px;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu .nav-menu span.rs-menu-parent i{
+		color: #2287ff !important;
+	}
+	.inner-page .banner-bottom-list ul::before{
+		width: 50%;
+	}
+	.rs-domain-item ul.domain-info li{
+		margin-right: 15px;
+		padding-right: 15px;
+	}
+	.domain .rs-hostlab-domain-search .available-domain .domain-format::after{
+		right: 10%;
+	}
+	.rs-hostlab-cta .hostlab-cta-desc{
+		width: unset;
+	}
+	.rs-hostlab-footer .footer-content .footer-menu .partiton-menu ul li {
+		width: 100%;
+		float: none;
+	}
+	.rs-different-featured .featured-item {
+		min-height: 275px;
+	}
+	.rs-different-featured .featured-item .title h3 {
+		line-height: 25px;
+	}
+	.rs-different-hosting .item-host .title h3 {
+		font-size: 15px;
+	}
+	.rs-support {
+		position: relative;
+	}
+	.rs-support .inner-cta-img {
+	    top: 0;
+	    text-align: center;
+	    padding-top: 60px;
+	}
+	.rs-support .support-content {
+	    color: #ffffff;
+	    padding: 75px 0 60px;
+	}
+	.rs-support .support-content {
+		position: relative;
+		z-index: 1;
+		text-align: center;
+	}
+	.rs-support .support-content .support-here ul li h4 {
+		font-size: 18px;
+	}
+	.rs-support .support-content .support-here ul li span {
+		font-size: 12px;
+	}
+	.rs-client-service .client-service-img{
+		text-align: center;
+	}
+	.rs-client-service .client-service-img img{
+		float: unset;
+	}
+	.sec-spacer {
+		padding: 80px 0;
+	}
+	.rs-support .section-title {
+		margin-bottom: 40px;
+	}
+	.rs-hostlab-footer .copyright .social-links ul li {
+		line-height: unset;
+	}
+	.rs-contact-info {
+		padding: 70px 0 78px;
+	}
+	.rs-contact-comment {
+		padding-top: 76px !important;
+	}
+	.rs-blog-news .blog-grid .blog-contents .title {
+		font-size: 22px;
+	}
+	.rs-testimonial .testi-grid .testi-right img {
+		margin-top: -37px;
+	}
+	.rs-client-service .client-service{
+		border-right: 0;
+		border-bottom: 1px solid #fff;
+		width: auto;
+	}
+	.client-footer .client-contact-services{
+		position: unset;
+		left: unset;
+		top: unset;
+		transform: unset;
+		margin: 80px 0;
+	}
+	.inner-page .client-footer .client-contact-services,
+	.home1 .client-footer .client-contact-services,
+	.home3 .client-footer .client-contact-services,
+	.home4 .client-footer .client-contact-services{
+		margin-top: 0;
+	}
+	.client-footer .client-contact-services .client-contact{
+		height: auto;
+	}
+	.client-footer .client-border{
+		border-bottom: 1px solid #1450c9;
+		border-right: unset;
+	}
+	.rs-domain-search .domain-search-form-group ul.domain-info li {
+		margin-right: 7px;
+		padding-right: 7px;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu .rs-mega-menu.hosting-menu .mega-menu,
+	.full-width-header .rs-header .main-menu .rs-menu .rs-mega-menu.hosting-menu .mega-menu .single-magemenu{
+		width: 100%;
+	}
+	.sub-menu li a i{
+		display: none;
+	}
+	.single-magemenu ul .sub-menu-close{
+		display: none;
+	}
+	.full-width-header .rs-header .main-menu .rs-menu ul.nav-menu li i{
+		margin-right: 0;
+	}
+	nav.rs-menu{
+		box-shadow: 0 30px 60px #1366c9;
+	}
+	.home3 nav.rs-menu{
+		box-shadow: 0 30px 60px #2a6720 ;
+	}
+	.client-footer .rs-hostlab-footer .footer-content {
+	    padding-top: 15px;
+	}
+	.rs-hostlab-footer .footer-content .col-lg-3,
+	.rs-hostlab-footer .footer-content .col-lg-2 + .col-lg-2{
+		margin-top: 40px;
+	}
+	.rs-hostlab-footer .footer-content .footer-menu{
+		max-width: 450px;
+	}
+	.rs-hostlab-footer .footer-content .footer-menu form.footer-form::before{
+		right: 20px;
+	}
+	.rs-hostlab-footer .footer-content .footer-menu form.footer-form input.submit{
+		width: 65px;
+	}
+	.home2 .rs-hostlab-cta .section-title h2{
+		font-size: 20px;
+	}
+	.rs-hostlab-cta .section-title h2 span{
+		font-size: 36px;
+	}
+	.section-title h2{
+		font-size: 25px;
+	}
+	.rs-support .support-content .support-here ul li i:before{
+		font-size: 40px;
+	}
+	.defult-logo{
+		display: none !important;
+	}
+	.sticky-logo{
+		display: block !important;
+	}
+	.shared-hosting-top .shared-top-text .hosting-subtitle{
+		margin-top: 0;
+		font-size: 17px;
+	}
+}
+
+@media only screen and (max-width: 767px){
+	.rs-breadcrumbs{
+		overflow: hidden;
+	}
+	.rs-breadcrumbs .breadcrumbs-inner{
+		display: block;
+		text-align: center;
+	}
+	.rs-breadcrumbs nav ul li + li{
+		margin-left: 5px;
+	}
+	.rs-breadcrumbs nav ul li{
+		display: inline-block;
+	}
+	.rs-breadcrumbs nav ul li,
+	.rs-breadcrumbs .page-title{
+		float: none;
+	}
+	.rs-banner img{
+		min-height: 100px;
+	}
+	.order-last, 
+	.order-first{
+		order: unset;
+	}
+	.sm-padding{
+		padding: 0 15px !important;
+	}
+	.mb-sm-30{
+		margin-bottom: 30px;
+	}
+	.sl-subtitle{
+		display: none;
+	}
+	.rs-domain-item .domain-search-group form.domain-search-form,
+	body.domain .domain-search-group form.domain-search-form{
+		margin-bottom: 70px;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form .submin-btn {
+	    max-width: 122px;
+	    margin: 0 auto;
+	    float: right;
+	}
+	.hostlab-btn{
+		width: 160px;
+		padding: 8px 0;
+	}
+	.price-table-section .price-table.style-one .cl-pricetable-wrap{
+		box-shadow: 0 20px 50px 0 rgba(54, 54, 54, 0.3);
+	}
+	.price-table-section .price-table.style-one .cl-pricetable-wrap.popular_plan{
+		margin-top: 30px;
+	}
+	.rs-domain-item .domain-search-group form.domain-search-form .submin-btn input,
+	.home2 .rs-hostlab-domain-search .available-domain form.domain-form input.domain-search,
+	body.domain .domain-search-group form.domain-search-form .submin-btn input{
+		top: 100%;
+		left: 0;
+		max-width: unset !important;
+		width: 100%;
+		border-radius: 50px !important;
+		margin-top: 10px;
+	}
+	.rs-hostlab-slider .content-inner .domain-search-group .price {
+		margin-top: 90px;
+	}
+	.home2 .rs-banner .slider-text li .slider-btn{
+		margin-top: 0;
+	}
+	.home2 .rs-hostlab-domain-search .available-domain{
+		margin-bottom: 60px;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form .submin-btn input {
+	    height: 50px;
+	    line-height: 50px;
+	    margin: 22px 0 0;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form{
+		overflow: hidden;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form .select-group {
+	    position: unset;
+	    top: 0;
+	    right: 0;
+	    float: left;
+	    margin: 22px 0 0;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form input{
+		box-shadow: none;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form .select-group .select{
+		width: 90px;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form .select-group .select::after{
+		display: none;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form .select-group .select select.select-hidden{
+		padding: 0;
+	}
+	.home2 .rs-hostlab-domain-search .available-domain input.domain-search{
+		margin: 0;
+	}	
+	.rs-host-platform .tab-content .tab-pane .column-space .col-content {
+	    margin-bottom: 20px;
+	}
+	.rs-domain-item ul.domain-info li{
+		display: block;
+		margin: 0 0 10px;
+		padding: 0 0 10px;
+		text-align: center;
+		border-right: 0;
+		border-bottom: 1px solid rgba(71, 93, 255, 0.25);
+	}
+	.rs-domain-item ul.domain-info li:last-child{
+		margin: 0;
+		padding: 0;
+		border: none;
+	}
+	.rs-hostlab-classification .single-hosting .hostlab-icon{
+		padding: 0 0 10px;
+	}
+	.single-product-page .tab-btm ul.nav li a {
+	    padding: 20px 16px 20px 0;
+	    font-size: 14px;
+	}
+	.slider-btn {
+	    width: 170px;
+	    padding: 10px 20px;
+	    font-size: 12px;
+	}
+	.product-image img{
+		width: 100%;
+	}
+	.sec-spacer {
+	    padding: 80px 0;
+	}
+	.sec-spacer2,
+	.sec-spacer6 {
+	    padding: 50px 0;
+	}
+	.sec-spacer3 {
+	    padding-top: 50px;
+	    padding-bottom: 50px;
+	}
+	.sec-spacer4 {
+	    padding: 50px 0 80px !important;
+	}
+	.sec-spacer5{
+	    padding: 80px 0 50px !important;
+	}
+	.section-title{
+		margin-bottom: 25px;
+	}
+	.section-title h2,
+	.rs-client-service .client-service-text h2{
+        font-size: 22px;
+    }
+    .rs-host-platform ul.nav-tabs li.nav-item a.nav-link {
+	    padding: 5px 7px;
+	    font-size: 14px;
+	}
+    .rs-hostlab-cta .section-title h2 span{
+    	font-size: 30px;
+    }
+    .hostlab-title h3{
+    	font-size: 18px;
+    }
+    .rs-hostlab-cta .hostlab-cta-desc .hostlab-desc{
+    	font-size: 15px;
+    	line-height: 25px;
+    }
+    .home4 .full-width-header .rs-header .rs-header-top .logo-area{
+    	text-align: unset;
+    }
+	.rs-hostlab-slider .content-inner .slider-text .sl-title,
+	.rs-banner .slider-text .sl-title,
+	.home3 .rs-banner .banner-section .slider-text .home3-title,
+	.home2 .rs-banner .slider-text .sl-title,
+	.home4 .rs-hostlab-slider .single-slider .slider-text .sl-title{
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.rs-hostlab-slider .content-inner .slider-text .sl-subtitle,
+	.home4 .rs-hostlab-slider .single-slider .slider-text .sl-subtitle,
+	.home4 .rs-hostlab-slider .single-slider .slider-text .sl-price{
+		font-size: 15px;
+	}
+	.home4 .rs-hostlab-slider .single-slider .slider-text .slider-btn{
+		font-size: 13px;
+	}
+	.rs-banner .slider-text .sl-title{
+		margin-bottom: 10px;
+	}
+	.rs-banner .slider-text .sl-subtitle{
+		margin-bottom: 10px;
+	}
+	.rs-banner .slider-text .slider-btn{
+		width: 170px;
+		padding: 10px;
+		font-size: 15px;
+	}
+	.inner-page .banner-img .banner-title .banner-title-text{
+		font-size: 25px;
+	}
+	.inner-page .banner-bottom-list ul::before{
+		width: 40%;
+	}
+	.rs-hostlab-cta .hostlab-cta-desc .hostlab-desc{
+		margin-bottom: 25px;
+	}
+	.rs-hostlab-domain-search .available-domain input.domain-name,
+	.domain .rs-hostlab-domain-search .available-domain .domain-name,
+	.home2 .rs-hostlab-domain-search2 .available-domain input.domain-name{
+		width: 75%;
+	}
+	.rs-hostlab-domain-search .available-domain .domain-format,
+	.domain .rs-hostlab-domain-search .available-domain .domain-format{
+		width: 25%;
+	}
+	.home2 .rs-hostlab-domain-search2 .available-domain .domain-format, 
+	.home2 .rs-hostlab-domain-search2 .available-domain .domain-format select, 
+	.home2 .rs-hostlab-domain-search2 .available-domain input.domain-search, 
+	.home2 .rs-hostlab-domain-search2 .available-domain input.domain-name{
+		float: left;
+	}
+	.rs-hostlab-domain-search .available-domain .domain-format::after{
+		right: 10%;
+	}
+	.rs-hostlab-domain-search .available-domain input.domain-search,
+	.domain .rs-hostlab-domain-search .available-domain .domain-search{
+		width: 100%;
+		margin: 5px 0 0 0;
+	}
+	.rs-hostlab-classification .single-hosting{
+		display: inline-block;
+	}
+	.rs-hostlab-classification .single-hosting .hostlab-img{
+		width: 100%;
+		padding-bottom: 20px;
+		text-align: center;
+	}
+	.rs-hostlab-classification .single-hosting .hostlab-text{
+		width: 100%;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr th,
+	.rs-hostlab-domain-price .price-list-table table tr th{
+		max-width: 115px;
+		font-size: 15px;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr th h1{
+		font-size: 30px;
+		padding: 10px 0 0;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr th h1 span{
+		padding: 10px 0 0;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr:first-child td, 
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr:last-child td, 
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr:first-child th, 
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr:last-child th{
+		padding: 10px 0;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr td{
+		max-width: 115px;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table .hostlab-btn{
+		width: 80px;
+		font-size: 12px;
+		padding: 3px 0;
+		margin: 0 3px;
+	}
+	.rs-history .total-history .history-single .history-item .right-sector,
+	.rs-history .total-history .history-single .history-item .left-sector{
+		float: none;
+		text-align: center;
+	}
+	.rs-history .total-history .history-single .history-item .history-panel::before{
+		display: none;
+	}
+	.rs-hostlab-our-team .hostlab-team-member{
+		display: inline-block;
+	}
+	.rs-hostlab-our-team .hostlab-team-member .our-team-image,
+	.rs-hostlab-our-team .hostlab-team-member .our-team-text{
+		width: 100%;
+		text-align: center;
+	}
+	.rs-hostlab-footer .copyright .copy-text {
+		text-align: center;
+		margin-bottom: 15px;
+	}
+	.rs-hostlab-footer .copyright .social-links ul li {
+		float: none;
+		display: inline-block;
+	}
+	.rs-hostlab-footer .copyright .social-links {
+		text-align: center;
+	}
+	.rs-hostlab-footer .copyright .social-links ul li:first-child {
+		margin-right: 15px;
+	}
+	.rs-hostlab-footer .copyright .social-links ul li:last-child {
+		margin-right: 0;
+	}
+	.rs-different-hosting .item-host {
+		margin-bottom: 30px;
+	}
+	.rs-different-hosting .item-host .title h3 {
+		font-size: 20px;
+	}
+	.rs-different-featured .featured-item {
+		min-height: auto;
+	}
+	.rs-different-featured .featured-item .title h3 a {
+		font-size: 18px;
+	}
+	.rs-support .support-content {
+		text-align: left;
+	}
+	.rs-support .support-content li {
+		display: block;
+		width: 100% !important;
+		margin-bottom: 30px;
+	}
+	.rs-support .support-content li:last-child {
+		margin-bottom: 0;
+	}
+	.rs-support {
+		background-size: cover;
+	}
+	.rs-contact-info .contact-grid .text-here p.some-text {
+		margin-bottom: 28px;
+	}
+	.rs-contact-info {
+		padding-bottom: 48px;
+	}
+	.rs-blog-news .blog-grid {
+		text-align: center;
+	}
+	.rs-blog-news .blog-grid .blog-img .tool-right .bottom {
+		padding: 7px 7px;
+	}
+	.rs-blog-news .blog-grid .blog-img .tool-right .top {
+		padding: 7px 7px;
+	}
+	.rs-blog-news .blog-grid .blog-img .tool-right .top div {
+		font-size: 22px;
+	}
+	.rs-blog-news .blog-grid .blog-contents .title {
+		line-height: 32px;
+	}
+	.rs-testimonial {
+		padding-bottom: 32px !important;
+	}
+	.rs-blog-details .blog-wrapper .blog-grid .blog-img .tool-right .top,
+	.rs-blog-details .blog-wrapper .blog-grid .blog-img .tool-right .bottom {
+		padding: 10px;
+	}
+	.rs-domain-search .domain-search-form-group {
+		padding: 50px 30px;
+	}
+	.rs-domain-search .domain-search-form-group ul.domain-info li {
+		text-align: center;
+		margin: 13px 0;
+		display: block;
+		padding: 0;
+		border: none;
+	}
+	.rs-domain-search .domain-search-form-group .domain-search-form .select-group {
+		top: 80px;
+		left: 0;
+	}
+	.rs-domain-search .domain-search-form-group .domain-search-form .select-group .select {
+		margin-right: 218px;
+	}
+	.rs-domain-search .domain-search-form-group .domain-search-form .select-group input {
+		height: 30px;
+	}
+	.rs-domain-search .domain-search-form-group .domain-search-form .select-group .select .select-hidden {
+		background: #2287ff;
+		color: #fff;
+		width: 111px;
+		border-radius: 30px;
+		height: 30px;
+		padding: 0;
+		padding-right: 10px;
+		text-align: center;
+		line-height: 30px;
+	}
+	.rs-domain-search .domain-search-form-group .domain-search-form .select-group .select::after {
+		top: 4px;
+		right: 25px;
+		color: #fff;
+	}
+	.rs-domain-search .domain-search-form-group .domain-search-form .select-group input {
+		width: 111px;
+	}
+
+	.rs-domain-search .domain-search-form-group .domain-search-form .select-group .select {
+		margin-right: 0;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form {
+		padding-bottom: 0;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr th small{
+		font-size: 45px;
+	}
+
+}
+@media only screen and (max-width: 480px){
+	.full-width-header .rs-header .logo-area img{
+		max-width: 80%;
+	}
+	.rs-breadcrumbs .page-title{
+		font-size: 26px;
+	}
+	.sec-spacer {
+	    padding: 60px 0;
+	}
+	.sec-spacer2,
+	.sec-spacer6 {
+	    padding: 40px 0;
+	}
+	.sec-spacer3 {
+	    padding-top: 40px;
+	    padding-bottom: 40px;
+	}
+	.sec-spacer4 {
+	    padding: 40px 0 60px !important;
+	}
+	.inner-page .banner-img .banner-title{
+		min-width: 250px;
+	}
+	.rs-hostlab-slider .single-slider{
+		background-image: unset !important;
+		background-color: #2287ff;
+		text-align: center;
+	}
+	.home4 .rs-hostlab-slider .single-slider .slider-text .sl-price span,
+	.home4 .rs-hostlab-slider .single-slider .slider-text .sl-title span{
+		color: #ffffff;
+	}
+	.rs-hostlab-slider .content-inner .slider-text .sl-title,
+	.rs-banner .slider-text .sl-title,
+	.home3 .rs-banner .banner-section .slider-text .home3-title,
+	.home2 .rs-banner .slider-text .sl-title,
+	.home4 .rs-hostlab-slider .single-slider .slider-text .sl-title{
+		font-size: 20px;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr th small{
+		font-size: 30px;
+	}
+	.rs-domain-item .domain-search-group form.domain-search-form{
+		max-width: 300px;
+	}
+	.single-product-page .tab-btm ul.nav li a {
+	    padding: 5px 16px 5px 0;
+	}
+	.sec-spacer5{
+	    padding: 60px 0 40px !important;
+	}
+	.rs-hostlab-cta .section-title h2{
+		line-height: 1.5;
+	}
+	.rs-hostlab-slider .content-inner .slider-text{
+		padding: 100px 0 50px;
+	}
+	.rs-hostlab-slider .content-inner .slider-text .sl-title,
+	.rs-banner .slider-text .sl-title,
+	.home4 .rs-hostlab-slider .single-slider .slider-text .sl-title{
+		font-size: 24px;
+	}
+	.rs-hostlab-slider .content-inner .domain-search-group form.domain-search-form{
+		max-width: unset;
+	}
+	.rs-hostlab-slider .content-inner .slider-text .slider-btn,
+	.home4 .rs-hostlab-slider .single-slider .slider-text .slider-btn,
+	.rs-banner .slider-text .slider-btn,
+	.hostlab-btn{
+		width: 80px;
+		padding: 3px 0;
+		font-size: 12px;
+		margin: 0 3px;
+	}
+	.home2 .rs-banner .slider-text{
+		margin-top: 30px;
+	}
+	.inner-page .banner-img .banner-title{
+		padding: 50px 20px;
+	}
+	.inner-page .banner-img .banner-title .banner-title-text{
+		font-size: 20px;
+	}	
+	.section-title h2,
+	.rs-client-service .client-service-text h2{
+        font-size: 18px;
+    }
+	.inner-page .banner-bottom-list ul::before{
+		display: none;
+	}
+	.rs-hostlab-slider .content-inner .domain-search-group form.domain-search-form input{
+		height: 50px;
+	}
+	.rs-hostlab-classification{
+		margin-top: 70px;
+	}
+	.price-list-table{
+		overflow-y: hidden;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr th,
+	.rs-hostlab-domain-price .price-list-table table tr th{
+		max-width: 100px;
+		font-size: 11px;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr td{
+		max-width: 100px;
+		font-size: 12px;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr th h1{
+		font-size: 25px;
+	}
+	.shared-hosting .shared-hosting-price-table .shared-hosting-table table tr th h1 span{
+		font-size: 12px;
+	}
+	.rs-contact-comment {
+		padding-top: 58px !important;
+	}
+	.rs-contact-info {
+		padding-bottom: 30px;
+		padding-top: 59px;
+	}
+	.rs-blog-news .blog-grid .blog-img .tool-right .top,
+	.rs-blog-news .blog-grid .blog-img .tool-right .bottom {
+		padding: 3px 3px;
+		font-size: 10px;
+	}
+	.rs-blog-news .blog-grid .blog-img .tool-right .top div,
+	.rs-blog-news .blog-grid .blog-img .tool-right .bottom i {
+		font-size: 15px;
+	}
+	.rs-blog-news .blog-grid .blog-contents .title {
+		font-size: 20px;
+	}
+	.rs-login-section .center-xs .lost-psw {
+		text-align: center !important;
+	}
+	.rs-login-section .center-xs {
+		text-align: center;
+	}
+	.rs-registration .register-width form.register-form .date {
+		margin-right: 0;
+	}
+	.rs-testimonial {
+		padding-bottom: 12px !important;
+	}
+	.rs-blog-details .blog-wrapper .feedback .hits {
+		float: none;
+		text-align: left;
+	}
+	.rs-blog-details .blog-wrapper .share-now .title {
+		float: none;
+	}
+	.rs-blog-details .blog-wrapper .author-comment ul li .image-comments img {
+		width: 61px;
+	}
+	.rs-blog-details .blog-wrapper .author-comment ul li:nth-child(2) {
+		margin-left: 0;
+	}
+
+	.rs-blog-details .sidebar-area {
+		padding-top: 50px;
+	}
+	.rs-blog-details .blog-wrapper .blog-grid .blog-img .tool-right .top {
+		padding: 5px 3px;
+		font-size: 12px;
+	}
+	.rs-blog-details .blog-wrapper .blog-grid .blog-img .tool-right .top div {
+		font-size: 18px;
+	}
+	.rs-blog-details .blog-wrapper .blog-grid .blog-img .tool-right .bottom {
+		padding: 5px 3px;
+		font-size: 12px;
+	}
+	.rs-blog-details .blog-wrapper .blog-grid .blog-img .tool-right .bottom i {
+		font-size: 18px;
+	}
+	.rs-banner .slider-text .sl-subtitle {
+		display: none;
+	}
+	.rs-banner .slider-text .sl-title {
+		font-size: 21px;
+	}
+	.rs-domain-search .domain-search-form-group .domain-search-form .select-group input {
+		width: 110px;
+	}
+	.client-footer .client-contact-services{
+		margin-bottom: 60px;
+	}
+	.rs-domain-search .domain-search-form-group {
+		margin-top: 0;
+	}
+	.rs-hostlab-classification {
+		margin-top: 0;
+	}
+	.rs-domain-search .domain-search-form-group .domain-search-form input#domain-search {
+		padding: 15px 32px;
+	}
+	.rs-domain-search .domain-search-form-group .domain-search-form .select-group {
+		left: 21%;
+	}
+
+	.rs-domain-search .domain-search-form-group form.domain-search-form input {
+		height: 50px;
+		line-height: 50px;
+	}
+	.rs-domain-search .domain-search-form-group form.domain-search-form {
+		padding-bottom: 0;
+	}
+	.our-products-section .pagination-style ul li{
+		min-width: 40px;
+	}
+	.rs-hostlab-footer .footer-content {
+		padding-top: 15px !important;
+	}
+	.hostlab-accordion .accordion .card .card-header .acdn-title{
+		font-size: 15px;
+	}
+
+}

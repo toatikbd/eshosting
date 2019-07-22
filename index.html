@@ -147,7 +147,7 @@
                                         <h1 class="sl-title">
                                             The Best <span>Web Hosting</span>
                                         </h1>
-                                        <h3 class="sl-price">Starting at <span>৳1200</span> per year*</h3>
+                                        <h3 class="sl-price">Starting at <span>৳500</span> per year*</h3>
                                         <ul>
                                             <li><a href="javascript:void(0);" class="slider-btn">Purchase Now</a></li>
                                         </ul>
@@ -166,7 +166,7 @@
                                         <h1 class="sl-title">
                                             The Best <span>Web Domain</span>
                                         </h1>
-                                        <h3 class="sl-price">Starting at <span>৳850</span> per year*</h3>
+                                        <h3 class="sl-price">Starting at <span>৳800</span> per year*</h3>
                                         <ul>
                                             <li><a href="javascript:void(0);" class="slider-btn">Purchase Now</a></li>
                                         </ul>
@@ -184,7 +184,7 @@
         <section id="rs-domain-item" class="rs-domain-item section-bg wow fadeIn">
             <div class="container">                
                 <div class="domain-search-group">
-                    <p class="price bold">৳850 .com ~ Free Privacy ~ Free Support</p>
+                    <p class="price bold">৳800 .com ~ Free Privacy ~ Free Support</p>
                     <form class="domain-search-form">
                         <input type="search" placeholder="Find Your Domain Name" id="domain-search">
                         <div class="submin-btn">
@@ -195,7 +195,7 @@
                  <ul class="domain-info">
                     <li>
                         <span>.com</span>
-                        <strong>৳850</strong>
+                        <strong>৳800</strong>
                     </li>
                     <li>
                         <span>.net</span>
@@ -942,16 +942,7 @@
                             </div>
 
                             <div class="col-lg-3">
-                                <div class="footer-menu">
-                                    <h4 class="title">Stay Up To Date</h4>
-                                    <p class="some-text">
-                                        Subscribe To Our Newsletter.We’ll Send Email Notification Every Day Evry Time.
-                                    </p>
-                                    <form class="footer-form">
-                                        <input class="email" type="email" placeholder="Enter Your Mail" required>
-                                        <input class="submit" type="submit" value="Send">
-                                    </form>
-                                </div>
+                                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FesHostingTechnology%2F&tabs=timeline&width=340&height=210&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=true&appId" width="280" height="210" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                             </div>
                         </div>
                     </div>
@@ -990,7 +981,15 @@
             <!-- Footer End -->
         </section>
         <!-- Footer Client End -->
-
+		<div id="fb-root"></div>
+		<!-- Your customer chat code -->
+		<div class="fb-customerchat"
+		  attribution=setup_tool
+		  page_id="207153082797805"
+		  theme_color="#2287ff"
+		  logged_in_greeting="Hi! How can we help you?"
+		  logged_out_greeting="Hi! How can we help you?">
+		</div>
         <!-- Scrool to Top Start -->
         <div id="scrollUp">
             <i class="fa fa-angle-up"></i>
@@ -1017,7 +1016,27 @@
         <script src="js/rsmenu-main.js"></script>
         <!-- plugins js -->
         <script src="js/plugins.js"></script>
-	<!-- main js -->
+		<!-- main js -->
         <script src="js/main.js"></script>
+		
+		<!-- Load Facebook SDK for JavaScript -->
+		
+		<script>
+		  window.fbAsyncInit = function() {
+			FB.init({
+			  xfbml            : true,
+			  version          : 'v3.3'
+			});
+		  };
+
+		  (function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+		
     </body>
 </html>
